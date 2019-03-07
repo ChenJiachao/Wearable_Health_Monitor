@@ -1,4 +1,9 @@
 This project is a Wearable Health Monitor Project
 Components include:
-Feather 32u4 Board
-TFT LCD monitor
+      Feather 32u4 Board
+      TFT LCD monitor
+
+Sensors include:
+      MyoWare Muscle EMG Sensor 
+      Pulse Sensor  
+      MLX0614 TEMPERATURE Sensor
